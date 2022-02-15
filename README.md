@@ -1,4 +1,4 @@
-# Project_Janus
+# Project Janus
 
 TODO: Write a project description
 
