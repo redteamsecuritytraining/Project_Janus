@@ -1,0 +1,19 @@
+{  
+    "configuration": {  
+    	"key": "",
+        "name":"JANUS01-",
+        "log_file":"",
+        "GPIO_input":"7",
+        "GPIO_mode":"10",
+        "camera_frames":"3",
+        "camera_resolution":"720p",
+        "camera_framerate":"30",
+        "ai_endpoint":"",
+        "prediction_key":"",
+        "probability_threshold":"0.4",
+        "imagefile_path":"",
+        "delete_image_after_analysis":"1",         
+        "container_name":"",
+        "connection_string":""
+    }  
+}
